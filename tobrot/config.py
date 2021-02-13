@@ -16,5 +16,5 @@ class Config(Config):
     DESTINATION_FOLDER = "TorrentLeech-Gdrive"
     LEECH_COMMAND = "leech@kratosleechbot"
     CANCEL_COMMAND_G = "cancel@kratosleechbot"
-    RCLONE_CONFIG = 
+    RCLONE_CONFIG = """""
     #put your config(replacing new lines with \n) in triple quote like above: """<your one liner config>"""
